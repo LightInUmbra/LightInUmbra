@@ -17,7 +17,7 @@ I'm currently seeking internships and junior developer roles where I can contrib
 ## Education
 
 **A.A.S., Software Engineering Technology**  
-Cincinnati State Technical and Community College — *Expected May 2026*  
+Cincinnati State Technical and Community College — *Expected May 2027*  
 GPA: 3.30 · Dean's List: Fall 2024
 
 **Certificate — Internetwork Engineering**  
