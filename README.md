@@ -23,7 +23,7 @@ GPA: 3.30 · Dean's List: Fall 2024
 **Certificate — Internetwork Engineering**  
 PC Age Career Institute
 
-**Core Coursework:** Programming I & II · Object-Oriented Programming · Database Design & SQL · Java Programming 1 & 2 · System Analysis and Design · Python
+**Core Coursework:** Programming I & II · Object-Oriented Programming · Database Design & SQL · Java Programming I & II · System Analysis and Design · Python
 
 ---
 
